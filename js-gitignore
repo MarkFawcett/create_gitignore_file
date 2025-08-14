@@ -1,0 +1,13 @@
+# node stuff
+node_modules/
+
+# some people advise against...
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Package manager logs
+npm-debug.log*
